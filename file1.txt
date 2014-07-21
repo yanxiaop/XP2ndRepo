@@ -1,0 +1,1 @@
+The previous verison of file1.txt was empty.
